@@ -19,7 +19,7 @@ Dépôt : https://github.com/azd-billal/Chess
 
 ### Capture en diagonale
 - https://github.com/azd-billal/Chess/commit/1508c16 : manger en diagonale
-- https://github.com/azd-billal/Chess/commit/c58ebc4 : simplification de moveTo de MyPawn
+- https://github.com/azd-billal/Chess/commit/c58ebc4 : simplification de moveTo de MyPawn 
 
 ### En passant
 - https://github.com/azd-billal/Chess/commit/1d00f7f : implémentation de la prise en passant
